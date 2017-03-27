@@ -3,10 +3,11 @@
   <groupId>com.matchinguu</groupId>
   <artifactId>mgusdk</artifactId>
   <versioning>
-    <release>0.9.40</release>
+    <release>0.9.41</release>
     <versions>
       <version>0.9.40</version>
+      <version>0.9.41</version>
     </versions>
-    <lastUpdated>20170322202604</lastUpdated>
+    <lastUpdated>20170327170317</lastUpdated>
   </versioning>
 </metadata>
