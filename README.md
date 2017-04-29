@@ -1,7 +1,7 @@
-This is our Maven repo.
-We host our android SDK versions here.
+This is Matchinguu Maven repo.
+We host out android SDK versions here.
 
-To check our how you can integrate our sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
+To check our how you can integrate matchinguu sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
 
 ##### Changes with SDK 1.1.0                                   `10 April 2016`
 
