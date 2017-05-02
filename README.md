@@ -7,6 +7,7 @@ To check our how you can integrate matchinguu sdk into your android app please v
 
 - Add the package info to the broadcasted intents
 - Add a method to get matchinguu client Id in sake of debugging
+- More logging
 
 ##### Changes with SDK 1.1.2                                   `26 April 2016`
 
