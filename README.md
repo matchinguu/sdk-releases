@@ -3,8 +3,18 @@ We host our android SDK versions here.
 
 To check our how you can integrate our sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
 
-##### Changes with SDK 1.1.0                                   `10 April 2016`
+##### Changes with SDK 1.1.3                                   `2 May 2016`
 
+- Add the package info to the broadcasted intents
+- Add a method to get matchinguu client Id in sake of debugging
+
+##### Changes with SDK 1.1.2                                   `26 April 2016`
+
+- Fix problem with request caching
+- handle 400 errors
+
+
+##### Changes with SDK 1.1.0                                   `10 April 2016`
 
 - Use the host app meta data instead of passing the app id and the token as method params
 ```xml
@@ -15,6 +25,5 @@ To check our how you can integrate our sdk into your android app please visit [M
 
 
 ##### Changes with SDK 1.0.0                                   `5 April 2016`
-
 
 - Major change with the sdk in the way the developer integrate the SDK into his app
