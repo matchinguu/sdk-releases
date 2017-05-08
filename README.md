@@ -3,6 +3,10 @@ We host android SDK versions here.
 
 To check our how you can integrate matchinguu sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
 
+##### Changes with SDK 1.1.4                                   `8 May 2016`
+
+- Solve problem with cache
+
 ##### Changes with SDK 1.1.3                                   `2 May 2016`
 
 - Add the package info to the broadcasted intents
