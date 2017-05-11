@@ -3,6 +3,12 @@ We host android SDK versions here.
 
 To check our how you can integrate matchinguu sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
 
+##### Changes with SDK 1.1.5                                   `11 May 2016`
+
+- Change **setLocationBasedServices** to be called from the instance.
+- Enhance the connectivity check in the api calls to handle connectivity changes.
+
+
 ##### Changes with SDK 1.1.4                                   `8 May 2016`
 
 - Solve problem with cache
