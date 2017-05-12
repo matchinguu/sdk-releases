@@ -1,12 +1,14 @@
-This is Matchinguu Maven repo.
+This is **matchinguu** Maven repo.
 We host android SDK versions here.
 
-To check our how you can integrate matchinguu sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
+To check our how you can integrate **matchinguu** sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
 
 ##### Changes with SDK 1.1.5                                   `11 May 2016`
 
 - Change **setLocationBasedServices** to be called from the instance.
 - Enhance the connectivity check in the api calls to handle connectivity changes.
+- Add method **switchImprovedLocationPositioning** to enhance the location positioning,
+  you need to contact **matchinguu** to enable this feature.
 
 
 ##### Changes with SDK 1.1.4                                   `8 May 2016`
@@ -16,7 +18,7 @@ To check our how you can integrate matchinguu sdk into your android app please v
 ##### Changes with SDK 1.1.3                                   `2 May 2016`
 
 - Add the package info to the broadcasted intents
-- Add a method to get matchinguu client Id in sake of debugging
+- Add a method to get **matchinguu** client Id in sake of debugging
 - More logging
 
 ##### Changes with SDK 1.1.2                                   `26 April 2016`
