@@ -3,7 +3,10 @@ We host android SDK versions here.
 
 To check our how you can integrate **matchinguu** sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
 
-##### Changes with SDK 1.2.1                                  `10 June 2017`
+##### Changes with SDK 1.2.6                                  `13 June 2017`
+- Fix a problem with progaurd
+
+##### Changes with SDK 1.2.2                                  `10 June 2017`
 - Fix a problem with the SDK start utility
 
 ##### Changes with SDK 1.2.0                                  `09 June 2017`
