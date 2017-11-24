@@ -3,6 +3,10 @@ We host android SDK versions here.
 
 To check our how you can integrate **matchinguu** sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
 
+##### Changes with SDK 1.4.0                                 `24 Novmber 2017`
+- Changes in the backend calls
+- Add a new api method getToken()
+
 ##### Changes with SDK 1.3.8                                 `16 Novmber 2017`
 - fix timing in Api retrying mechanism
 
