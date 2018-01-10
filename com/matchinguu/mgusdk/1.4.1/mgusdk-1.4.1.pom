@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.matchinguu</groupId>
   <artifactId>mgusdk</artifactId>
-  <version>1.4.1-DEBUG</version>
+  <version>1.4.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
