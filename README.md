@@ -3,6 +3,11 @@ We host android SDK versions here.
 
 To check our how you can integrate **matchinguu** sdk into your android app please visit [Matchinguu Gmbh](http://www.matchinguu.com)
 
+##### Changes with SDK 1.4.3                                 `14 March 2018`
+- Adds Android Oreo 8.0 support.
+- Fixed location permission issue.
+
+
 ##### Changes with SDK 1.4.0                                 `24 Novmber 2017`
 - Changes in the backend calls
 - Add a new api method getToken()
